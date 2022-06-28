@@ -1,13 +1,13 @@
 # Zshare-Development-Assistance-Tool
-Zshareのサーバー開発補助ツール
+<BR>Zshareのサーバー開発補助ツール
 
-開発者への使い方を記しておきます。普通の使い方はZarcにて書いてるのでそこ見てください。
+<br>開発者への使い方を記しておきます。普通の使い方はZarcにて書いてるのでそこ見てください。
 
-'''
+<br>```
 npm install
-'''
-electronしか使われてないのでelectron入れてる人はやらんくていいと思います。
-'''
+```
+<br>electronしか使われてないのでelectron入れてる人はやらんくていいと思います。
+<br>```
 npm start
-'''
-で起動できます。
+```
+<br>で起動できます。
